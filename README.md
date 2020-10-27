@@ -21,9 +21,3 @@ export default class EditPanel {
     this.board = board
   }
 }
-
-#- Father is  good and healthy here.
-#- Mother and Sujong are treating disease yet.
-#- They don't have baby yet.
-#- HyongBom is doing original business.
-#- All of family are worrying about you.
